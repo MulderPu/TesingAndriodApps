@@ -5,7 +5,7 @@ android {
     buildToolsVersion "23.0.0"
 
     defaultConfig {
-        applicationId "app.com.example.mulder.sunshine"
+        applicationId "app.com.example.mulder.sunshine.app"
         minSdkVersion 15
         targetSdkVersion 23
         versionCode 1

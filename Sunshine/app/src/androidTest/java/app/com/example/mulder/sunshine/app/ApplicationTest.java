@@ -1,4 +1,4 @@
-package app.com.example.mulder.sunshine;
+package app.com.example.mulder.sunshine.app;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
